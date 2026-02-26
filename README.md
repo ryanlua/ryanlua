@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/raenlua-e4405f?logo=instagram)](https://www.instagram.com/raenlua)
 [![YouTube](https://img.shields.io/badge/RaenLua-ff0000?logo=youtube)](https://www.youtube.com/@RaenLua)
 [![Roblox](https://img.shields.io/badge/WinnersTakesAll-335fff?logo=roblox)](https://www.roblox.com/users/345072461)
-[![Spotify](https://img.shields.io/badge/Raen%20Lua-black?logo=spotify)](https://open.spotify.com/user/tn7j8zm0oub2u3op7n4d9c5b5)
 
 > [Read about me on my personal website 🌐](https://ryanluu.dev)
 
